@@ -2,6 +2,21 @@
 
 ![WebDojo Cover](.github/cover.png)
 
+## 📚 Sobre este fork
+
+Este repositório é um fork educacional do projeto WebDojo, criado pelo instrutor Fernando Papito para os alunos do Curso Ninja do Cypress.
+O objetivo deste fork é registrar meus estudos e práticas de automação de testes com Cypress.
+
+✔ Conteúdos adicionados por mim:
+
+Novas suítes de teste
+
+Refatoraçōes
+
+Experimentos pessoais
+
+Anotações de estudo
+
 ## 🚀 Sobre o Projeto
 
 O **WebDojo** é um aplicativo exclusivo para os alunos do **Curso Ninja do Cypress**, ministrado pelo mestre **Fernando Papito**! 🥷💻 Ele foi criado para ser um **campo de treinamento prático**, onde os alunos podem aprimorar suas habilidades em automação de testes com desafios e exercícios focados no **Cypress**.
@@ -37,3 +52,5 @@ Este projeto é **exclusivo para alunos** do **Curso Ninja do Cypress**. 🚫 O 
 ------
 
 💙 Feito com dedicação e muito café por **Fernando Papito** e a equipe do **Curso Ninja do Cypress**. 🚀🔥
+
+
